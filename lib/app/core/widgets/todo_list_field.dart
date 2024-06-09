@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:todo_list/app/core/ui/todo_list_icons.dart';
 
 class TodoListField extends StatelessWidget {
   final String label;
@@ -52,8 +51,8 @@ class TodoListField extends StatelessWidget {
                           obscuretextVN.value = !obscuretextValue;
                         },
                         icon: Icon(!obscuretextValue
-                            ? TodoListIcon.eye_slash
-                            : TodoListIcon.eye),
+                            ? Icons.remove_red_eye_outlined
+                            : Icons.remove_red_eye_sharp),
                       )
                     : null),
           ),
