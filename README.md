@@ -11,6 +11,15 @@ Este é um projeto de Todo List que permite aos usuários criar contas e gerenci
 - **Filtrar por tasks finalizadas**: O usuário pode filtrar as tarefas por status de finalização.
 - **Alterar nome de usuário**: O usuário pode alterar o nome de sua conta.
 
+
+### Imagens da Todo List
+![Alt Text](/screenshots/inicio.png "Tela de inicio")
+![Alt Text](/screenshots/criar.png "Tela de criar tarefas")
+![Alt Text](/screenshots/drawer.png "Menu com opções")
+![Alt Text](/screenshots/tasksSemana.png "Tarefas da semana")
+![Alt Text](/screenshots/finalizados.png "Tarefas finalizadas ")
+
+
 ## Instalação
 Para instalar o projeto, siga os passos abaixo:
 
@@ -47,4 +56,3 @@ Para mais informações ou para contribuir, contate-nos em jhon14amral1@gmail.co
 Obrigado a Rodrigo Rahman por sua contribuição para o projeto com as aulas ministrada no curso .
 
 
-=
