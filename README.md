@@ -37,7 +37,7 @@ Obrigado por contribuir para o projeto. Para contribuir, siga os passos abaixo:
 Para mais informações ou para contribuir, contate-nos em jhon14amral1@gmail.com .
 
 ## Links
-- [Link para o repositório do projeto]: [Descrição do link]
+- Link para o repositório do projeto: (https://github.com/jhonathan-amaral/todo_list)
 
 
 ## Autores
