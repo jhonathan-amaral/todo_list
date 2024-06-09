@@ -13,11 +13,11 @@ Este é um projeto de Todo List que permite aos usuários criar contas e gerenci
 
 
 ### Imagens da Todo List
-![Alt Text](/screenshots/inicio.png "Tela de inicio"){width=50%} {height=50%}
-![Alt Text](/screenshots/criar.png "Tela de criar tarefas"){width=50%}
-![Alt Text](/screenshots/drawer.png "Menu com opções"){width=50%}
-![Alt Text](/screenshots/tasksSemana.png "Tarefas da semana"){width=50%}
-![Alt Text](/screenshots/finalizados.png "Tarefas finalizadas "){width=50%}
+![Alt Text](/screenshots/inicio.png "Tela de inicio"){height=50%}
+![Alt Text](/screenshots/criar.png "Tela de criar tarefas"){height=50%}
+![Alt Text](/screenshots/drawer.png "Menu com opções"){height=50%}
+![Alt Text](/screenshots/tasksSemana.png "Tarefas da semana"){height=50%}
+![Alt Text](/screenshots/finalizados.png "Tarefas finalizadas "){height=50%}
 
 
 ## Instalação
